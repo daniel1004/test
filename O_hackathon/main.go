@@ -18,4 +18,7 @@ func repeatedNTimes(nums []int) int {
 func main() {
 	a := []int{1, 2, 3, 3}
 	fmt.Println(repeatedNTimes(a))
+	fmt.Println(repeatedNTimes(a))
+	fmt.Println(repeatedNTimes(a))
+
 }
