@@ -16,6 +16,16 @@ func repeatedNTimes(nums []int) int {
 	}
 	return 0
 }
+
+// Проверка на кратность 3
+func spotThree(num int) (int, error) {
+	if num%3 == 0 {
+		return 0, fmt.Errorf("Число кратно 3 ")
+	}
+	return num, nil
+}
+
+// Input and Output
 func main() {
 	fmt.Println("Введите количество элементов массива (должно быть кратно 2):")
 	var n int
@@ -33,6 +43,6 @@ func main() {
 		fmt.Scan(&arr[i])
 	}
 
-	fmt.Println(repeatedNTimes(arr))
+	fmt.Println(spotThree(repeatedNTimes(arr)))
 
 }
