@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fda0064-195b-455d-bf2d-4f8788d32e61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hbN5MQppsfVwfea6cWpOpVXLbV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go Build.go build Use/Daniel/GO/src/calc/greetings.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build calc/calc.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/ALGOSY.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/Homework 8.8.2.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/LeetCode.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/O!charaton.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/O_hackathon.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/Stepik.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/electronic.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/forZhenia.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/lts.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/mapHW.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/modult17_3.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/queueList.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/testInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build electronic/Задачка.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build enser.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build hellow/electronic/testmain.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build main.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build poject1.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkBubbleSort in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkBubbleSort/Positive_middle_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkBubbleSort/bad_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkBubbleSort/big_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkBubbleSort/ideal_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkBubbleSort/middle_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkBubbleSort/small_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkInsertionSort in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkInsertionSort/bad_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkInsertionSort/big_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkInsertionSort/ideal_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkInsertionSort/middle_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkInsertionSort/small_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkMergeSort in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkMergeSort/big_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkMergeSort/ideal_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkMergeSort/middle_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkMergeSort/small_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkQuickSort in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkQuickSort/big_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkQuickSort/ideal_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkQuickSort/ideal_ar#01 in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkQuickSort/middle_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkQuickSort/small_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort/Sort_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort/Sort_ar#01 in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort/bad_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort/big_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort/ideal_array in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort/middle_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkSelectionSort/small_ar in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkShakerSort in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkShakerSort/bad_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkShakerSort/big_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkShakerSort/ideal_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkShakerSort/middle_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkShakerSort/small_arrays in skillfactory/sort (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.BenchmarkShakerSort/small_arrays in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestSort_Bubble in skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.gobench skillfactory/sort (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.gobench skillfactory/sort.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79021&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\User\Daniel\GO\src\calc\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\User\Daniel\GO\src\calc" />
+      <recent name="C:\User\Daniel\GO\src" />
+      <recent name="C:\User\Daniel\GO\src\calc\main" />
+      <recent name="C:\User\Daniel\GO\src\poject1" />
+      <recent name="C:\User\Daniel\GO\src\exercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build electronic/O_hackathon">
+    <configuration name="go build electronic/Interface" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="electronic/Interface" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Interface/main (2).go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build electronic/O!charaton" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="electronic/O!charaton" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/O!charaton/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build electronic/O_hackathon" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="electronic/O_hackathon" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/O_hackathon/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build electronic/forZhenia" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="electronic/forZhenia" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/forZhenia/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build electronic/lts" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="electronic/lts" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/lts/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build electronic/O_hackathon" />
+        <item itemvalue="Go Build.go build electronic/Interface" />
+        <item itemvalue="Go Build.go build electronic/forZhenia" />
+        <item itemvalue="Go Build.go build electronic/O!charaton" />
+        <item itemvalue="Go Build.go build electronic/lts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.17011.92" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-GO-241.17011.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
